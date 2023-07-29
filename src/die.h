@@ -1,5 +1,7 @@
 //
 #include<random>
+#include<iostream>
+using std::cout;
 
 #ifndef DIE_H
 #define DIE_H
